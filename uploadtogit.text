@@ -1,0 +1,7 @@
+
+Link to get git-scm = https://git-scm.com/downloads
+
+#1 : git config --global user.name "mayurkhullar"
+#2 : git config --global user.email "gmservices1954@gmail.com"
+#3 : git init
+$4 : git add.
